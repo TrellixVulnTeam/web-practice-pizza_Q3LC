@@ -1,0 +1,8 @@
+export { default as Header } from './Header'
+export { default as Slider } from './Slider'
+export { default as Pizza } from './Pizza'
+export { default as Footer } from './Footer'
+export { default as PopularPizzas } from './PopularPizzas'
+export { default as SortPopup } from './SortPopup'
+export { default as Categories } from './Categories'
+export { default as Loading } from './Loading'

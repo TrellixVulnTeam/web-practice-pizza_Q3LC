@@ -1,0 +1,19 @@
+
+
+.cart {
+    border-bottom: 1px solid #f6f6f6;
+    padding: 40px 0;
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+
+        .content{
+        }
+    }
+
+    &__empty {
+        margin-bottom: 50px;
+    }
+}
